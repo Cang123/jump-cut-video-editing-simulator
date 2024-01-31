@@ -22,9 +22,9 @@ python jumpcutter-gui.py
 ## Cara Penggunaan Simulator
 Berikut ini adalah tampilan Graphic User Inter Face:
 
-![App Screenshot](./images/Home.png)
-![App Screenshot](./images/Export.png)
-![App Screenshot](./images/Final.png)
+![Screenshot](https://github.com/Cang123/jump-cut-video-editing-simulator/blob/main/Images/Home.png)
+![Screenshot](https://github.com/Cang123/jump-cut-video-editing-simulator/blob/main/Images/Export.png)
+![Screenshot](https://github.com/Cang123/jump-cut-video-editing-simulator/blob/main/Images/Final.png)
 
 Langkah-langkah menggunakan simulator :
 - Click choose file lalu pilih video yang ingin digunakan atau melalui URL youtube
